@@ -121,8 +121,6 @@ class GxGDEW075T7 : public GxEPD
 #define GxEPD_Class GxGDEW075T7
 #define GxEPD_WIDTH GxGDEW075T7_WIDTH
 #define GxEPD_HEIGHT GxGDEW075T7_HEIGHT
-#define GxEPD_BitmapExamples <GxGDEW075T7/BitmapExamples.h>
-#define GxEPD_BitmapExamplesQ "GxGDEW075T7/BitmapExamples.h"
 #endif
 
 #endif
